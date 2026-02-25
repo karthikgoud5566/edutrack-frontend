@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 
-const API = 'http://localhost:8080/api/students';
+const API = 'https://edutrack-backend-production-f3bc.up.railway.app/api/students';
 
 function App() {
   const [students, setStudents] = useState([]);
