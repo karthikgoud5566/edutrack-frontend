@@ -10,13 +10,13 @@ A full stack web application for managing student records and results. Admins ca
 ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/screenshot1.png)
+![Home](screenshots/Screenshot%202026-02-25%20111214.png)
 
 ### Student Results Table
-![Results](screenshots/screenshot2.png)
+![Results](screenshots/Screenshot%202026-02-25%20111149.png)
 
 ### Add / Edit Student
-![Edit](screenshots/screenshot3.png)
+![Edit](screenshots/Screenshot%202026-02-25%20111239.png)
 
 ---
 
